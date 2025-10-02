@@ -1,0 +1,15 @@
+# Python environment
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ELS virtual environment
+ELS/
+ELS_env/
+venv/
+.env/
